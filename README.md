@@ -1,4 +1,4 @@
-# Hi there, I'm [Eke Collins]! 👋
+# Hi there, I'm Eke Collins! 👋
 ## About Me 🚀
 
 I'm a passionate crypto enthusiast diving into the world of testnets, decentralized infrastructure (DePINs), and blockchain technologies. I enjoy learning new concepts, experimenting with decentralized apps, and exploring the endless possibilities of Web3.
